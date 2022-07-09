@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme
 - 🔭 em busca de novas oportunidades
-- 🌱 estou aprendendo: javascript, css, html e react
+- 🌱 estou estudando: javascript, css, html e react
 <div align = "centro">
   <a href="https://github.com/guilhermepg21">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermepg21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
