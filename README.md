@@ -3,8 +3,8 @@
 - 🌱 estou aprendendo: javascript, css, html e react
 <div align = "centro">
   <a href="https://github.com/guilhermepg21">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermepg21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepg21&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermepg21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepg21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style = 'display: inlin_block'><br>
   <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
